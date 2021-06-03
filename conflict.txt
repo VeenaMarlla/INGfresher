@@ -1,3 +1,6 @@
 conflict demo
 
 first line
+
+second line
+
